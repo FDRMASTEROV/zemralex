@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @FDRMASTEROV
-- 👀 I’m interested in: Computer stuff, electronics and MTB
+- 👋 Hi, I’m @FDRMASTEROV (actually ZEMRALEX)
+- 👀 I’m interested in: Computer stuff, electronics (hardware engineering) and MTB
 - 🌱 I’m currently learning: IDK, python for fun
 - 💞️ I’m looking to collaborate on: Im knowning Python on entry level
 - 📫 How to reach me: lol who needs me, im noob
